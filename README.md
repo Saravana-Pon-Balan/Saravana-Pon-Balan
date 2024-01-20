@@ -16,6 +16,6 @@ Full-Stack Developer
 
 [![Saravana's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=saravanaftynf)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
-![Saravana's Leetcode stats](https://leetcard.jacoblin.cool/saravanafrancis16?width=500&height=500)
+![Saravana's Leetcode stats](https://leetcard.jacoblin.cool/saravanafrancis16)
 
 [![Saravana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saravana-Pon-Balan&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
